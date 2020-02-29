@@ -3,6 +3,7 @@ ex: Uso de API de noticias "hn algolia", mostrando las noticias con votación de
 
 <p align="center">
 ![](https://media.giphy.com/media/ZYJymsecwEacnP6T42/giphy.gif)
-  
+</p>
+<p align="center"
 ![](https://media.giphy.com/media/XbmrNh2WZcA9BxkZ9U/giphy.gif)
 </p>
